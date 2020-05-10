@@ -4497,7 +4497,7 @@ html.no-csstransitions .s-hero__content {
 
 .clients__slide {
     display: block;
-    opacity: .50;
+    opacity: .75;
     padding: 0;
     -webkit-transition: opacity .5s;
     transition: opacity .5s;
